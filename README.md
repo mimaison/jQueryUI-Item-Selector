@@ -1,4 +1,4 @@
 jQueryUI-Item-Selector
 ======================
 
-JQuery Plugin to select items using the jQueryUI accordion widget 
+JQueryUI Plugin to select items using the jQueryUI accordion widget 
