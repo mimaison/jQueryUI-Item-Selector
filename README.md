@@ -4,7 +4,7 @@ This is a jQueryUI Plugin that allows to select items using the accordion widget
 
 ## Usage and Demo ##
 
-https://github.com/mimaison/jQueryUI-Month-Selector
+http://www.mickaelmaison.com/itemselector/
 
 ## jQuery Plugin Page ##
 
